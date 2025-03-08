@@ -49,4 +49,3 @@ These enhancements improve **speed, stability, and quality** while making FunieG
 
 ---
 
-This README provides a structured explanation of all modifications and their impact. 🚀
