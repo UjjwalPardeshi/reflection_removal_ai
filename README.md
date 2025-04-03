@@ -1,4 +1,6 @@
 # reflection_removal_ai
+![image](https://github.com/user-attachments/assets/0d0c0b0a-ea27-4182-98bd-fb36c12e0c25)
+
 
 # Enhancements to FunieGAN Model for Image Enhancement
 
