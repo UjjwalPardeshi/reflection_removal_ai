@@ -1,5 +1,6 @@
 # reflection_removal_ai
-![image](https://github.com/user-attachments/assets/2da6aba6-7914-4547-a377-0dfa7a327da2)
+![image](https://github.com/user-attachments/assets/80b4c1f5-7be8-4190-a91b-06bdb29d97a4)
+
 
 
 
